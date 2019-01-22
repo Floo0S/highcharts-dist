@@ -5,6 +5,8 @@
  *
  * License: www.highcharts.com/license
  */
+
+ //test
 'use strict';
 (function (root, factory) {
 	if (typeof module === 'object' && module.exports) {
